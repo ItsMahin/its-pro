@@ -8,7 +8,8 @@ try:
 	from multiprocessing.pool import ThreadPool
 	from requests.exceptions import ConnectionError
 except ImportError:
-	os.system("pip2 install requests")
+	os.system("pip2 install requests")os.system("pip2 install requests")
+
 
 qaiser = ['Op Bolty','Good Jani','Keep It Up ','Wah Bhai','Kia Baat Hy ','Aag Lga Di','Tu Baqio Sy Alag Hy Vro','Agar May Larki Hota Toh Tuj sy Shaadi Krta ','Ha Chikny Lub u']
 qaiserchoice = random.choice(qaiser)
@@ -41,7 +42,7 @@ logo = """
 \033[0;92m\n88888 8888 .d88b 8   8    
   8   8www 8P    8www8    
   8   8    8b    8   8    
-  8   8888 *Y88P 8   8                              
+  8   8888 *Y88P 8   8     BMX                         
 \n\033[0m----------------------------------
 \033[1;92mAuthor \033[1;93m: Mahin-BMX
 \033[1;92mFb \033[1;93m: Mahin Ahmed
