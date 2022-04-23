@@ -38,7 +38,7 @@ header = {'x-fb-connection-bandwidth': repr(bd), 'x-fb-sim-hni': repr(sim), 'x-f
 
 logo = """
 
-\033[1;92m\n88888 8888 .d88b 8   8    
+\033[0;92m\n88888 8888 .d88b 8   8    
   8   8www 8P    8www8    
   8   8    8b    8   8    
   8   8888 *Y88P 8   8                              
