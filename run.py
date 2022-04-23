@@ -56,9 +56,9 @@ def main():
     print logo
     print ''
     print ' [1].\x1b[1;96m Start Cloning'
-    print ' \033[0m[2].\x1b[1;96m Follow In Fb Or Yt '
-    print ' \033[0m[3].\x1b[1;96m New Channel Go & Sub Guyss '
-    print ' \033[0m[0].\x1b[1;96m Exit Tool \n'
+    print ' \033[0m[2].\x1b[1;96m Follow In Fb Or Mahin '
+    print ' \033[0m[3].\x1b[1;96m Join in group BMX '
+    print ' \033[0m[0].\x1b[1;96m Exit Tool \033[0;33m\n'
     print ''
     log_sel()
 
@@ -68,12 +68,12 @@ def log_sel():
     if select == '1':
         menu()
     elif select == '2':
-        os.system('xdg-open https://youtu.be/7ey463HiVSA')
+        os.system('xdg-open https://www.facebook.com/FB.King.Mahin')
         main()
     elif select == '0':
         os.system('exit')
     elif select == '3':
-        os.system('xdg-open https://youtube.com/channel/UCv3xnTA7veQe64UYUwDybEg')
+        os.system('xdg-open https://www.facebook.com/groups/224469761919897/?ref=share')
         main()
     else:
         print ''
