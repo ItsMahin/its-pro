@@ -45,7 +45,7 @@ logo = """
 \n\033[0m----------------------------------
 \033[1;92mAuthor \033[1;93m: Mahin-BMX
 \033[1;92mFb \033[1;93m: Mahin Ahmed
-\033[1;92mDisclaimer \033[1;93m: Its For Educational Purpose
+\033[1;92mDisclaimer \033[1;93m: only bmx user
 \033[0m----------------------------------
 
 """
